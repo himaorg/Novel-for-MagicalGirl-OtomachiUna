@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="Ex4e78yeorhTX2S8gjIM" name="ページ1">
-        <mxGraphModel dx="252" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1053" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -439,13 +439,13 @@
                 <mxCell id="159" value="パイモンの初仕事だ" style="whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
                     <mxGeometry x="9520" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="160" value="やなぎなぎ&lt;br&gt;けやきなぎ&lt;br&gt;ひのきなぎ&lt;br&gt;さくらなぎ&lt;br&gt;おーくなぎ&lt;br&gt;しらかばなぎ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                <mxCell id="160" value="やなぎなぎ&lt;br&gt;けやきなぎ&lt;br&gt;ひのきなぎ&lt;br&gt;さくらなぎ&lt;br&gt;おーくなぎ&lt;br&gt;しらかばなぎ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="5226" y="1349" width="100" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="161" value="ノベルコンテンツを、より良く受け取れる様に、ノベルコンテンツの受容体を鍛えよう。&lt;br&gt;そのためにどうすればいいか考えよう。" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="161" value="ノベルコンテンツを、より良く受け取れる様に、ノベルコンテンツの受容体を鍛えよう。&lt;br&gt;そのためにどうすればいいか考えよう。" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="7020" y="440" width="270" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="162" value="リヴァイアサンとは、コンステレーションの土台となる枠組みである。リヴァイアサンという土台の上でコンステレーションが発生することにより、メッシュマップが形成される。経済はメッシュマップを越えて運用されるが、インディビデュアルのサイコロジカルはメッシュマップの内側に閉じ籠る。この現象は、物質的に豊かになってもサイコが豊かにならない原因となっている。" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="162" value="リヴァイアサンとは、コンステレーションの土台となる枠組みである。リヴァイアサンという土台の上でコンステレーションが発生することにより、メッシュマップが形成される。経済はメッシュマップを越えて運用されるが、インディビデュアルのサイコロジカルはメッシュマップの内側に閉じ籠る。この現象は、物質的に豊かになってもサイコが豊かにならない原因となっている。" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="10600" y="105" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
