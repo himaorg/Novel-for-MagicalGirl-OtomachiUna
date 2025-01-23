@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="Ex4e78yeorhTX2S8gjIM" name="ページ1">
-        <mxGraphModel dx="2937" dy="2107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2100" dy="1562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -512,7 +512,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="182" value="一つ目のローカル（コンステレーションヘイム）" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=34;" parent="1" vertex="1">
-                    <mxGeometry x="-1100" y="-720" width="820" height="330" as="geometry"/>
+                    <mxGeometry x="-1130" y="-640" width="820" height="330" as="geometry"/>
                 </mxCell>
                 <mxCell id="183" value="地上は核の炎に包まれた。人類は地下シェルター生活を行うことになった" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-210" y="167.5" width="120" height="60" as="geometry"/>
@@ -748,16 +748,16 @@
                 <mxCell id="263" value="我々は、CMSによって、ハクスラエネルギーを調達する方法を研究しようと思う。" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="21470" y="191.25" width="150" height="75" as="geometry"/>
                 </mxCell>
-                <mxCell id="264" value="僕は長らくリヴァイアサンのノリが分からなかった。僕がリヴァイアサンのノリをなんとなく掴めるようになったのは、この小説を書き始めて少し時間が経過してからだ。" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="264" value="僕は長らくリヴァイアサンのノリが分からなかった。僕がリヴァイアサンのノリをなんとなく掴めるようになったのは、この小説を書き始めて少し時間が経過してからだ。" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="21670" y="160" width="240" height="155" as="geometry"/>
                 </mxCell>
-                <mxCell id="265" value="いわゆる普通と呼ばれるホモサピエンス個体は、皆総じてこの認知を有していたのかと思うと、自分がいかにリヴァイアサンから乖離した主観的認知空間に居たのかを想像してギョッとする。" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="265" value="いわゆる普通と呼ばれるホモサピエンス個体は、皆総じてこの認知を有していたのかと思うと、自分がいかにリヴァイアサンから乖離した主観的認知空間に居たのかを想像してギョッとする。" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="21960" y="172.5" width="250" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="266" value="僕は今まで長らくの間、このリヴァイアサンに普及している物語を消費するための脳機能が未発達だったのだろう。" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="266" value="僕は今まで長らくの間、このリヴァイアサンに普及している物語を消費するための脳機能が未発達だったのだろう。" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="22250" y="185.01" width="200" height="106.25" as="geometry"/>
                 </mxCell>
-                <mxCell id="267" value="ハルマゲドンとは今までの僕のことであり、界隈幸福麻薬を服用するホモサピエンスとは現在の僕のことなのだろう。" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="267" value="ハルマゲドンとは今までの僕のことであり、界隈幸福麻薬を服用するホモサピエンスとは現在の僕のことなのだろう。" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="22480" y="192.51" width="180" height="98.75" as="geometry"/>
                 </mxCell>
             </root>
