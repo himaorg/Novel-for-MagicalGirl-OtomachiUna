@@ -1,0 +1,88 @@
+<mxfile host="65bd71144e">
+    <diagram id="9FcgP99F1LMP_YUUT3-6" name="ページ1">
+        <mxGraphModel dx="663" dy="490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="380.84000000000003" y="67" width="125" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="368.34" y="165" width="150" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rotation=120;" vertex="1" parent="1">
+                    <mxGeometry x="448" y="86" width="125" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rotation=-210;" vertex="1" parent="1">
+                    <mxGeometry x="498" y="136" width="125" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rotation=-180;" vertex="1" parent="1">
+                    <mxGeometry x="516" y="205" width="125" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="380.84" y="340" width="125" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rotation=60;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="321" width="125" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rotation=30;" vertex="1" parent="1">
+                    <mxGeometry x="498" y="272" width="125" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rotation=0;" vertex="1" parent="1">
+                    <mxGeometry x="243.34000000000003" y="205" width="125" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rotation=30;" vertex="1" parent="1">
+                    <mxGeometry x="262.67" y="136" width="125" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rotation=60;" vertex="1" parent="1">
+                    <mxGeometry x="313.67" y="86" width="125" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rotation=-30;" vertex="1" parent="1">
+                    <mxGeometry x="262.67" y="272" width="125" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rotation=-60;" vertex="1" parent="1">
+                    <mxGeometry x="313.67" y="321" width="125" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="クル" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="422.34" y="91.5" width="42" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="ゲヘナ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="482" y="113" width="54" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="シェオール" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="524" y="160.5" width="78" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="アトランティス" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="392.84" y="229.5" width="101" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="タルタロス" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="539.5" y="229.5" width="78" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="ヘルヘイム" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="521.5" y="296.5" width="78" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="黄泉の国" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="477.5" y="345.5" width="66" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="根の国" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="416.34" y="364.5" width="54" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="八大地獄" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="343.17" y="350" width="66" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="パーターラ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="286.16999999999996" y="296.5" width="78" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="ドゥアト" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="272.84000000000003" y="229.5" width="66" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="ミクトラン" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="286.16999999999996" y="165" width="78" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="シバルバー" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="337.17" y="110" width="78" height="26" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
